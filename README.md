@@ -9,6 +9,7 @@ Marwa Mohamed
 Nouran Hossam
 
 🧐 About The Project:
+
 The application contains the entire Holy Quran.
 And some religious Azakar that some people neglect, such as morning and evening Azakar, food and sleep, and so on.
 
@@ -36,9 +37,9 @@ npm install @react-navigation/native
 
 npm install react-native-screens react-native-safe-area-context
 
-5. Native Stack Navigator: provides a way for your app to transition between screens where each new screen is placed on top of a stack.
+5.React picker package to hlep to user dropdown picker:
 
-npm install @react-navigation/native-stack
+npm install react-native-picker/picker
 
 6. AsyncStorage: An asynchronous unencrypted persistent key-value storage system for React Native.
 
@@ -48,14 +49,10 @@ npm i @react-native-async-storage/async-storage
 
 npm i @react-native-community/netinfo
 
-8. Image-picker:A React Native module that allows you to select a photo/video from the device library or camera.
+8. Swiper:A React Native module that allows you to swipe screens automatically
 
-npm i react-native-image-picker
+ npm install react-native-swiper
 
-9. Textinput Effects
-
-npm i react-native-textinput-effects
-
-10. Vector Icons
+9. Vector Icons
 
 npm i react-native-vector-icons
