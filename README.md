@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Al-Azaker</h1>
+<h1 align="center" id="title">Al-Zaskar</h1>
 
-<p id="description">Azakar is A religious application that aims to remember God permanently and not to overlook or forget. It also contains the electronic rosary so there are some daily supplications that are said permanently And when the zaker changes to another he starts from scratch There is also a storage space for each zaker so that if the user forgets it remains registered in the application.</p>
+<p id="description">Al-Zaskar is A religious application that aims to remember God permanently and not to overlook or forget. It also contains the electronic rosary so there are some daily supplications that are said permanently And when the zaker changes to another he starts from scratch There is also a storage space for each zaker so that if the user forgets it remains registered in the application.</p>
 
 
   
