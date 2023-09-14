@@ -57,4 +57,6 @@ Technologies used in the project:
 
   <h2>🍰 Contribution team:</h2>
 
-Team Names: Madiha Tarek (Leader) Marwa Mohamed. Nouran Hossam.
+Team Names: Madiha Tarek.
+Marwa Mohamed.
+Nouran Hossam.
