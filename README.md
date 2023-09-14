@@ -1,58 +1,60 @@
-Project Name:
+<h1 align="center" id="title">Al-Azaker</h1>
 
-# Azakar Mobile application
-Azakar is A religious application that aims to remember God permanently and not to overlook or forget.
-
-Team Names:
-Madiha Tarek.
-Marwa Mohamed
-Nouran Hossam
-
-🧐 About The Project:
-
-The application contains the entire Holy Quran.
-And some religious Azakar that some people neglect, such as morning and evening Azakar, food and sleep, and so on.
-
-It also contains the electronic rosary, so there are some daily supplications that are said permanently,
-And when the zaker changes to another, he starts from scratch
-There is also a storage space for each zaker so that if the user forgets it remains registered in the application.
-
-💻 Built with
-React native
-Javascript
-PHP
-MySQL
+<p id="description">Azakar is A religious application that aims to remember God permanently and not to overlook or forget. It also contains the electronic rosary so there are some daily supplications that are said permanently And when the zaker changes to another he starts from scratch There is also a storage space for each zaker so that if the user forgets it remains registered in the application.</p>
 
 
-🛠️ Installation Steps:
-1. React Native
+  
+<h2>🧐 Features</h2>
 
-2. Javascript
+Here're some of the project's best features:
 
-3. React navigation package :
+*   Electronic rosary with Async
 
-npm install @react-navigation/native
+<h2>🛠️ Installation Steps:</h2>
 
-4. Installing dependencies into a bare React Native project:
+<p>1. react</p>
 
-npm install react-native-screens react-native-safe-area-context
+```
+Component from react-native
+```
 
-5.React picker package to hlep to user dropdown picker:
+<p>2. react-native-gesture-handler</p>
 
-npm install react-native-picker/picker
+```
+npm install react-native-gesture-handler
+```
 
-6. AsyncStorage: An asynchronous unencrypted persistent key-value storage system for React Native.
+<p>3. react-native-swiper</p>
 
-npm i @react-native-async-storage/async-storage
+```
+npm install react-native-swiper
+```
 
-7. React Native Network Info: API for Android iOS macOS Windows & Web. It allows you to get information on (Connection type, Connection quality).
+<p>4. react-native-vector-icons</p>
 
-npm i @react-native-community/netinfo
+```
+npm install react-native-vector-icons
+```
 
-8. Swiper:A React Native module that allows you to swipe screens automatically
+<p>5. @react-native-community/picker</p>
 
- npm install react-native-swiper
+```
+npm install @react-native-community/picker
+```
+  
+  
+<h2>💻 Built with</h2>
 
-9. Vector Icons
+Technologies used in the project:
 
-npm i react-native-vector-icons
+*   react-native
+*   Javascript
+*   async storage
+
+<h2>🚀 Demo</h2>
+
+[https://drive.google.com/drive/folders/12uQ5gKp9ZiemM4Jnw29Lu2Jwn2W75dPJ?usp=drive\_link](https://drive.google.com/drive/folders/12uQ5gKp9ZiemM4Jnw29Lu2Jwn2W75dPJ?usp=drive_link)
+
+  <h2>🍰 Contribution team:</h2>
+
+Team Names: Madiha Tarek (Leader) Marwa Mohamed. Nouran Hossam.
